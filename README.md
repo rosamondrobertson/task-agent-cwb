@@ -90,15 +90,3 @@ streamlit run app.py
 ```
 
 Open `http://localhost:8501`
-
----
-
-
-## 📂 Files
-
-```
-05_task_progress/
-├── app.py
-├── requirements.txt
-└── README.md
-```
